@@ -1,4 +1,4 @@
-#Nathan Ashta's first CS193 Lab
+# Nathan Ashta's first CS193 Lab
 
 - Teaches me important tools for CS
 - Helps me prepare for upcoming CS classes
