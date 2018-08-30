@@ -1,3 +1,10 @@
+#Nathan Ashta's first CS193 Lab
+
+- Teaches me important tools for CS
+- Helps me prepare for upcoming CS classes
+- Teaches me things that may not have been taught in a traditional CS course here
+- Instructors are cool and helpful
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
